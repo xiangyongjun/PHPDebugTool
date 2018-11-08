@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PHPDebugTool", "PHPDebugTool.csproj", "{B2C3D1A9-3B1A-4563-AF7B-FD787F37B456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2C3D1A9-3B1A-4563-AF7B-FD787F37B456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C3D1A9-3B1A-4563-AF7B-FD787F37B456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C3D1A9-3B1A-4563-AF7B-FD787F37B456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C3D1A9-3B1A-4563-AF7B-FD787F37B456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E76237F-CA45-4849-A2A9-5DD5145C4CEA}
+	EndGlobalSection
+EndGlobal

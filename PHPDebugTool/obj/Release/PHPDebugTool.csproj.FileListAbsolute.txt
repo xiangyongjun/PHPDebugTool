@@ -1,0 +1,10 @@
+C:\Users\Jun\Desktop\PHP调试工具\PHPDebugTool\bin\Release\PHPDebugTool.exe.config
+C:\Users\Jun\Desktop\PHP调试工具\PHPDebugTool\bin\Release\PHPDebugTool.exe
+C:\Users\Jun\Desktop\PHP调试工具\PHPDebugTool\bin\Release\PHPDebugTool.pdb
+C:\Users\Jun\Desktop\PHP调试工具\PHPDebugTool\obj\Release\PHPDebugTool.csprojAssemblyReference.cache
+C:\Users\Jun\Desktop\PHP调试工具\PHPDebugTool\obj\Release\PHPDebugTool.Form1.resources
+C:\Users\Jun\Desktop\PHP调试工具\PHPDebugTool\obj\Release\PHPDebugTool.Properties.Resources.resources
+C:\Users\Jun\Desktop\PHP调试工具\PHPDebugTool\obj\Release\PHPDebugTool.csproj.GenerateResource.cache
+C:\Users\Jun\Desktop\PHP调试工具\PHPDebugTool\obj\Release\PHPDebugTool.csproj.CoreCompileInputs.cache
+C:\Users\Jun\Desktop\PHP调试工具\PHPDebugTool\obj\Release\PHPDebugTool.exe
+C:\Users\Jun\Desktop\PHP调试工具\PHPDebugTool\obj\Release\PHPDebugTool.pdb
